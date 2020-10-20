@@ -1,5 +1,5 @@
 # Calculadora-Python-SOAP
-A simple calculator for testing the web service with Phyton, in the SOAP protocol
+A simple calculator for testing the web service with Python, in the SOAP protocol
 
 ### Import the library:
 from zeep import Client
